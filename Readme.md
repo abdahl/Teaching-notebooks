@@ -4,3 +4,4 @@ This is links to some notebooks for teaching. The material is available for Vedr
 
 Events
 - [LINXS hackathon March 2023](https://github.com/abdahl/Teaching-notebooks/blob/main/Events/20230308_LINX_hackathon.md)
+- [CINEMAX VIII Summer School, Aubust 2023](https://github.com/abdahl/Teaching-notebooks/blob/main/Events/20230823_CINEMAX_VIII.md)
